@@ -1,0 +1,9 @@
+.moldando {
+	background-color: powderblue;
+	display: flex;
+	justify-content: space-around;
+}
+
+img {
+	width: 90px;
+}

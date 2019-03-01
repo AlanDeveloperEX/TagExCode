@@ -1,0 +1,56 @@
+area {
+	margin-bottom: 0;
+	margin-left: 20px;
+	margin-left: 20px;
+	background-color: red;
+}
+
+#formulario {
+	margin-bottom: 0;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#formulario label{
+
+}
+
+#formulario input.campo_nome{
+	width:500px;
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding-left: 5px;
+}
+
+#formulario input.campo_email{ 
+	width:500px;
+	margin-left: 25px;
+	height: 30px;
+	padding-left: 5px;
+}
+
+#formulario input.btn_submit{
+	background-color: #00CED1;
+	padding: 15px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-family: Audiowide;
+	font-size: 50px;
+	margin-bottom: 20px;
+	border: none;
+}
+
+#formulario input.btn_submit:hover, input.btn_submit:active {
+	background-color: #B0E0E6;//*esse é o efeito red que tirei*//
+}
+
+#formulario textarea.msg {
+	padding-left: 5px;
+}
+
+.btn_submit {
+	color: white;
+	margin-top: 10px;
+}
